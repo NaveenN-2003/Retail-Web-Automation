@@ -55,6 +55,18 @@ This framework is ideal for **QA engineers**, **automation learners**, and anyon
 - 🧪 TestNG Suite Management
 
 ---
+## 📸 Screenshots
+
+### ✅ Test Execution
+![Test Execution](screenshots/test-execution.png)
+
+### 📊 Test Report
+![Extent Report](screenshots/extent-report.png)
+
+### ❌ Failure Screenshot
+![Failure Screenshot](screenshots/failure-screenshot.png)
+
+
 
 ## 🧱 Architecture Overview  
 
